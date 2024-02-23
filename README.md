@@ -285,3 +285,8 @@ mvn spring-boot:run
 #### Source Code GitHub Link
 
 [https://github.com/baraneetharan/springai](https://github.com/baraneetharan/springai)
+
+
+#### How to use this project
+Clone this repository in your system and run mvn spring-boot:run 
+http://localhost:8080/swagger-ui/index.html
